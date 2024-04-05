@@ -1,0 +1,14 @@
+{
+  "name": "@react-native/ui-kit",
+  "version": "1.0.1",
+  "description": "UI kit for react-native  library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rauzon",
+  "license": "ISC",
+  "dependencies": {
+    "react-native": "^0.73.6"
+  }
+}
